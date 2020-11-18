@@ -6,9 +6,9 @@ package algorithm.study;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class LibraryTest {
+public class HashProblemTest {
     @Test public void testSomeLibraryMethod() {
-        Library classUnderTest = new Library();
-        assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
+        HashProblem hashProblem = new HashProblem();
+        
     }
 }
